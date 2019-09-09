@@ -8,7 +8,8 @@ Prerequisites
 
 Step to execute API test suite
 
-1.Download the "apitestrepo" project using URL :https://github.com/naveenish/apitestrepo<br/>
-2.Open cmd and move directory to the downloaded folder<br/>
-3.Execute "mvn test" command
+1.Download the "apitestrepo" project using URL :https://github.com/naveenish/apitestrepo 
+and extract files.<br/>
+2.Open cmd and move directory to the downloaded folder.<br/>
+3.Execute "mvn test" command.
 
